@@ -16,6 +16,6 @@ Furthermore, I performed working student positions to enhance my laboratory and 
 ## Mentionable Projects
 
 * [DIM-Website](dimik-description.at)
-* [Image to coordinates]()
-* [Bang-Bang Control]()
+* [Image to coordinates](https://github.com/Kapple14/ImageToCoordinate)
+* [Bang-Bang Control](https://github.com/Kapple14/Bang-Bang-Control)
  
