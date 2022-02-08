@@ -17,9 +17,9 @@ Furthermore, I performed student interns to enhance my laboratory and pratical s
 
 * Python
 * HTML 5 and CSS 3
+* Javascript (React)
 * Verilog
 * Objective-C and C
-* Javascript (React)
 
 ## Mentionable Projects
 
