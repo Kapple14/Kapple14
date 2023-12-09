@@ -1,30 +1,17 @@
-# Welcome to my personal Github repository!
+# Karl Miklautz's GitHub Repository
 
-I am Karl Miklautz and I have been working on various programming projects during my Bachelor's and Master's studies. 
-Most of them have been coded in Python and are clearly related to data analysis tasks. 
- 
- ## Background
- 
-I started programming at the age of sixteen with C. 
-Back then I was enrolled in the advanced computer science course offered by my high school. 
-After completing high school I enrolled in the Bachelor's program ["Physics"](https://www.ph.tum.de/academics/bsc/curriculum_2008/) of the [Technical University of Munich](https://www.tum.de).
-During this program, my computer and especially my data analysis skills have improved drastically.
-After completing the Bachelor's program I enrolled in the Master's program ["Applied and Engineering Physics"](https://www.ph.tum.de/academics/msc/physics/).
-During the Master's program, I started to administrate the IT infrastructure of the [DIM](http://dimiklautz.at).
-Furthermore, I performed student interns to enhance my laboratory and practical skills.
+Welcome to my personal GitHub repository! I'm Karl Miklautz, a passionate programmer who has delved into numerous programming projects throughout my academic journey, spanning both my Bachelor's and Master's studies. My focus primarily revolves around Python, particularly in relation to various data analysis tasks.
 
-## Programing and coding Languages
+## Background
 
-* Python
-* HTML 5 and CSS 3
-* Javascript (React)
-* Verilog
-* Objective-C and C
-* SQL
-* LATEX
+My journey in programming commenced at the age of sixteen when I delved into C programming. This initial foray was part of my enrollment in the advanced computer science course offered by my high school. Building on this foundation, I pursued a Bachelor's degree in [Physics](https://www.ph.tum.de/academics/bsc/curriculum_2008/) at the esteemed [Technical University of Munich (TUM)](https://www.tum.de), where my computing and data analysis skills saw significant growth. Subsequently, I furthered my academic pursuits by enrolling in the Master's program in ["Applied and Engineering Physics"](https://www.ph.tum.de/academics/msc/physics/) at TUM. During this period, I took on the responsibility of managing the IT infrastructure at [DIM](http://dimiklautz.at) and engaged in enriching student internships to augment my practical and laboratory skills.
 
-## Mentionable Projects
+## Programming Languages and Skills
 
-* [DIM-Website](dimik-description.at)
-* [Bang-Bang Control](https://github.com/Kapple14/Bang-Bang-Control)
- 
+Throughout my academic journey and beyond, I have honed proficiency in several programming languages and technologies:
+
+- **Python:** My primary language, extensively used for diverse data analysis tasks.
+- **HTML 5 and CSS 3:** Proficient in crafting web-based projects with modern web development standards.
+- **Javascript (React):** Skilled in utilizing Javascript and React for building dynamic and interactive web applications.
+
+Please feel free to explore my repository to find the projects, codes, and experiments reflecting my journey and passion for programming and data analysis. Your feedback and collaboration are always appreciated!
